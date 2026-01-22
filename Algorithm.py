@@ -4,9 +4,9 @@ Write a python program to find the largest of three numbers (done)
 Write a python program to calculate the sum of all the elements in a list (done)
 Write a python program to reverse a string (done)
 Write a program to check if a given word is a palindrome (done)
-Write the program to find the factorial of a number using recursion
-write a program to check if the given number is a prime number
-write a program for sequential search'''
+Write the program to find the factorial of a number using recursion (done)
+write a program to check if the given number is a prime number (done)
+write a program for sequential search (done)'''
 
 '''num= int(input("Enter a number: "))
 if num % 2==0:
@@ -89,6 +89,9 @@ if not found:
 
 num = int(input("Enter a number: "))
 print("Factorial =", factorial(num))'''
+
+
+
 
 
 
